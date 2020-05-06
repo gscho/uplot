@@ -1,0 +1,16 @@
+PATH
+  remote: ../..
+  specs:
+    uplot (1.0.8)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  uplot!
+
+BUNDLED WITH
+   1.17.3
